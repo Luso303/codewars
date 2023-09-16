@@ -1,4 +1,4 @@
-Assortment of Codewars problems and solutions.
+Assortment of Codewars problems and solutions.  Used for reference and learning.
+Mix of my personal solutions and other "top rated" answers.
 
-Mix of personal solutions and other "top rated" answers"# codewars" 
-# codewars
+Obligatory, "Creating a repository like this is discouraged by Codewars."
